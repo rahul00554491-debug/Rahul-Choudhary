@@ -1,0 +1,6 @@
+{
+  "name": "Visual Poetry",
+  "description": "A highly-polished modern portfolio for videographers and visual content creators, featuring horizontal scroll effects, interactive galleries, exhibitions, and sleek custom animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
